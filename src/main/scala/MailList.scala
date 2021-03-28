@@ -3,7 +3,7 @@
  * @author Lei
  * @date 2021/3/26
  */
-case class MailLIst(
+case class MailList(
                      fromAddr: String,
                       fromIp: String,
                       toPath: String,
